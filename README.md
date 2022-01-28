@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @signordavid
 - 👀 I’m interested in learn day by day
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
