@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @signordavid
-- 👀 I’m interested in learn Javascript, React, html5, css3
+- 👀 I’m interested in learn Javascript, React, html5, css3, Sass
 - 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
