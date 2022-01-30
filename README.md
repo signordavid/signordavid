@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me ...
 
-<!---
-signordavid/signordavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://clima-react-1.netlify.app/
+https://crud-react-1.netlify.app/
+https://clonetrellobuild.netlify.app/
