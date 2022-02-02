@@ -4,9 +4,9 @@
 
 <h3>Cosas que he practicado en React Js<h3> {
 <a href="https://track-corona-react-signor.netlify.app/ ">Corona Tracker</a><br /> 
-<a href="https://clima-react-1.netlify.app/">Aplicaciòn del Clima</a> <br /> 
-<a href="https://crud-react-1.netlify.app/">CRUD</a> <br /> 
-<a href="https://clonetrellobuild.netlify.app/">Clone de Trello</a> <br /> 
+<a href="https://clima-react-signor.netlify.app/">Aplicaciòn del Clima</a> <br /> 
+<a href="https://crud-react-signor.netlify.app/">CRUD</a> <br /> 
+<a href="clonetrellobuild-signor.netlify.app">Clone de Trello</a> <br /> 
  }
 
 
